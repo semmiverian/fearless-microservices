@@ -1,0 +1,13 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Semmi Verian <semmivp1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.0",
+    "express": "4.17.1",
+    "mongoose": "5.6.9",
+    "redis": "2.8.0"
+  }
+}
